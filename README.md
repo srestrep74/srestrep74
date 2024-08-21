@@ -1,6 +1,13 @@
 <div align="center">
-<h1 align="center">Hi there, I'm <a href="https://aristi.dev">Sebastián</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a Sebastián</a> 👋</h1>
 </div>
+
+## About Me
+
+- 📲 Backend Developer with a strong focus on Python and Java
+- 🎓 Computer Science student, passionate about software development and technology
+- 🚀 Currently exploring new technologies and working on SpringBoot.
+- 🌟 Connect with me on [LinkedIn](www.linkedin.com/in/sebastián-restrepo-ortiz-44bb29299)  to discuss software development and collaboration opportunities.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
