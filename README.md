@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 📲 Backend Developer with a strong focus on Python and Java
+- 📲 Backend Developer with a strong focus on Java and Spring.
 - 🎓 Computer Science student, passionate about software development and technology
 - 🚀 Currently exploring new technologies and working on SpringBoot.
 - 🌟 Connect with me on [LinkedIn](https://www.linkedin.com/in/sebastián-restrepo-ortiz-44bb29299) to discuss software development and collaboration opportunities.
